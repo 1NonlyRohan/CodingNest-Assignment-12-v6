@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     outline: 0;
@@ -9,7 +9,7 @@
     font-family: josefin sans;
 }
 
-body{
+body {
     background-color: #fff;
 }
 
@@ -30,11 +30,11 @@ body{
     width: 90px;
 }
 
-.btn-1 a{
+.btn-1 a {
     color: white;
 }
 
-.btn-2 a{
+.btn-2 a {
     color: #838383;
 }
 
@@ -51,4 +51,43 @@ body{
     position: absolute;
     border: 0;
     margin: 30px 0 0 900px;
+}
+
+.mid-1 h1 {
+    padding: 160px 600px 0px 100px;
+    font-size: 80px;
+    font-weight: 900;
+    font-family: math;
+}
+
+.mid-1 p {
+    padding: 40px 650px 0px 100px;
+    font-size: 35px;
+    color: darkgrey;
+    font-weight: 600;
+}
+
+.poster img {
+    margin: 200px 80px 0 0;
+    float: right;
+}
+
+.btn-3 {
+    border-radius: 3px;
+    padding: 15px;
+    position: absolute;
+    margin: 30px 0px 0px 100px;
+    border: 1px grey solid;
+    width: 200px;
+    background-color: royalblue;
+}
+
+.btn-3 a{
+    color: white;
+    font-size: 15px;
+}
+
+.image-2 img {
+    margin: 110px 0 0 120px;
+    position: absolute;
 }
