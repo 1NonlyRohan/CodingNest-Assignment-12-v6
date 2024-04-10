@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-size: 16px;
+    font-family: josefin sans;
+}
+
+body{
+    background-color: #fff;
+}
+
+.head-cont a h1 {
+    color: crimson;
+    font-size: 30px;
+    margin: 30px 0 0 30px;
+    position: absolute;
+}
+
+.btn-1 {
+    border-radius: 3px;
+    padding: 5px;
+    position: absolute;
+    margin: 25px 0 0 1020px;
+    border: 1px grey solid;
+    background-color: royalblue;
+    width: 90px;
+}
+
+.btn-1 a{
+    color: white;
+}
+
+.btn-2 a{
+    color: #838383;
+}
+
+.btn-2 {
+    border-radius: 3px;
+    padding: 5px;
+    position: absolute;
+    margin: 25px 0 0 1150px;
+    border: 1px grey solid;
+    width: 80px;
+}
+
+.form #Lang {
+    position: absolute;
+    border: 0;
+    margin: 30px 0 0 900px;
+}
